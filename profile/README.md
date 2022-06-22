@@ -10,6 +10,6 @@
 ![body](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![body](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
 # 🧑‍💻 팀원 👩‍💻
-프론트엔드 : 제타, 데니스리(예정)   
-백엔드 : 졉동새, 케밥(예정)    
-</div
+프론트엔드 : 제타, 데니스리     
+백엔드 : 졉동새, 케밥 
+</div>
