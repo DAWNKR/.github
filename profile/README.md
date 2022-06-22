@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=1D1C1A&height=300&text=NULL&fontColor=FAF8F6&fontAlign=70&rotate=20&fontAlignY=-20&desc=with%20undefined&descAlign=70&descAlignY=-6&fontSize=101&descSize=20)
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=1D1C1A&height=300&text=NULL&fontColor=FAF8F6&fontAlign=70&rotate=20&fontAlignY=28&desc=with%20undefined&descAlign=70&descAlignY=44&fontSize=101&descSize=20)
 
 <div align="center">
 
@@ -11,4 +12,4 @@
 # 🧑‍💻 팀원 👩‍💻
 프론트엔드 : 제타, 데니스리(예정)   
 백엔드 : 졉동새, 케밥(예정)    
-</div>
+</div
