@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F9423A&height=300&section=header&text=CREW&fontSize=90&animation=fadeIn&fontAlignY=38&desc=덕질은%20부끄러운게%20아니니까&descAlignY=52&descAlign=50&fontColor=FAF8F6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F9423A&height=300&section=header&text=CREW&fontSize=90&animation=fadeIn&fontAlignY=38&desc=덕질전문%20SNS플랫폼&descAlignY=52&descAlign=50&fontColor=FAF8F6)
 
 <div align="center">
 
