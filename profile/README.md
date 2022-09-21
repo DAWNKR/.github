@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F9423A&height=300&section=header&text=CREW&fontSize=90&animation=fadeIn&fontAlignY=38&desc=덕질전문%20SNS플랫폼&descAlignY=52&descAlign=50&fontColor=FAF8F6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=222831&height=300&section=header&text=CREW&fontSize=90&animation=fadeIn&fontAlignY=38&desc=가장%20빛날%20우리만의%20새벽&descAlignY=52&descAlign=50&fontColor=EEEEEE)
 
 <div align="center">
 
